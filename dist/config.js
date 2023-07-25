@@ -1,2 +1,0 @@
-export const TOKEN = "MTEyOTgyNjUzNzgzNTg2ODI2MQ.GC8JMP.e-nydxN4s8LpFGfZXiSsidYCJbmZNbKRG-z_68";
-export const CLIENT_ID = "1129826537835868261";
